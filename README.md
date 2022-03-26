@@ -1,2 +1,2 @@
 # HUscraper
-Little script to extract all person data from HU Berlin employees
+Little script to extract contact information data from HU Berlin employees
